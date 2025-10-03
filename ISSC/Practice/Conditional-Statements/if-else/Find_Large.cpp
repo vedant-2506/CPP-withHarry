@@ -1,3 +1,5 @@
+//Read three integers and find the largest among them.
+
 #include <iostream>
 using namespace std;
 

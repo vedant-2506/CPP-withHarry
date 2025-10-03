@@ -1,4 +1,4 @@
-//addition, subtraction, and multiplication using a third variable
+//Addition, subtraction, and multiplication using a third variable
 
 #include<iostream>
 using namespace std;

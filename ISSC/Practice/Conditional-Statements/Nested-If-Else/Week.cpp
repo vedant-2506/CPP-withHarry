@@ -1,4 +1,4 @@
-//.​Input week number (1–7) and print corresponding weekday name.
+//​Input week number (1–7) and print corresponding weekday name.
 
 
 #include <iostream>

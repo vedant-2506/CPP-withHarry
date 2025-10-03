@@ -15,7 +15,7 @@ int main() {
     if( (mon ==1 ) && (mon ==3 ) && (mon == 5 ) && (mon == 7) && (mon == 8) && (mon == 10) && (mon == 12) ){
         cout<<"Days in mount "<<mon<<" is 31 .\n"; 
     }
-    else if( (mon == 4 ) && (mon == 6 ) && (mon == 9  ) && (mon == 11) ){
+    else if( (mon == 4 ) && (mon == 6 ) && (mon == 9  ) && (mon == 11) ){g
         cout<<"Days in mount "<<mon<<" is 30 .\n"; 
     }
     else{
