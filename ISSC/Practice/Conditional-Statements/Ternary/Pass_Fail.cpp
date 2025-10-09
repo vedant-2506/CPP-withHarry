@@ -8,7 +8,7 @@ int main() {
     cout << "Enter your marks: ";
     cin >> marks;
 
-    // Assuming pass mark = 40
+    
     string result = (marks >= 40) ? "Pass" : "Fail";
     cout << "Result: " << result << endl;
 
