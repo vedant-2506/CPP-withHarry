@@ -1,4 +1,4 @@
-//Print a square pattern based on user input (height)
+//Print a star pattern based on user input (height)
 
 #include <iostream>
 using namespace std;
